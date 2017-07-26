@@ -1,0 +1,4 @@
+RoleName###RoleDes###RoleType###Results
+Cahieridbi5###cashier###E
+Cahieridbi6###cashier###E
+Cahieridbi7###cashier###E

@@ -1,0 +1,4 @@
+RoleName###RoleDes###RoleType###Results
+Cahieridbi5###cashier###E%%%Role Already existed
+Cahieridbi6###cashier###E%%%New Role with id 318 Created Sucessfully
+Cahieridbi7###cashier###E%%%New Role with id 319 Created Sucessfully
